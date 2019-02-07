@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "fav-kitties",
   "version": "0.0.1",
-  "description": "An example app demonstrating how to remove unused libraries",
+  "description": "An example app for setting performance budgets with bundlesize",
   "main": "server.js",
   "scripts": {
     "start": "webpack && http-server -c-1"
